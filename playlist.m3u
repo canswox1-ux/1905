@@ -1,32 +1,25 @@
-#EXTINF:-1,TR: BEIN SPORTS HABER FHD
-http://tigervip26.xyz:8080/live/35UEwLrghB/UnQnF3KrtY/403.m3u
-#EXTINF:-1,TR: BEIN SPORTS HABER HD
-http://tigervip26.xyz:8080/live/35UEwLrghB/UnQnF3KrtY/347.m3u
-#EXTINF:-1,TR: BEIN SPORTS 1 SD
-http://tigervip26.xyz:8080/live/35UEwLrghB/UnQnF3KrtY/270945.m3u
-#EXTINF:-1,TR: BEIN SPORTS 1 HD
-http://tigervip26.xyz:8080/live/35UEwLrghB/UnQnF3KrtY/217.m3u
-#EXTINF:-1,TR: BEIN SPORTS 1 FHD
-http://tigervip26.xyz:8080/live/35UEwLrghB/UnQnF3KrtY/270941.m3u
-#EXTINF:-1,TR: BEIN SPORTS 1 FHD HQ
-http://tigervip26.xyz:8080/live/35UEwLrghB/UnQnF3KrtY/262993.m3u
-#EXTINF:-1,TR: Bein Sports 1 Ticari
-http://tigervip26.xyz:8080/live/35UEwLrghB/UnQnF3KrtY/270943.m3u
-#EXTINF:-1,TR: BEIN SPORTS 1 FHD (YEDEK)
-http://tigervip26.xyz:8080/live/35UEwLrghB/UnQnF3KrtY/52860.m3u
-#EXTINF:-1,TR: Bein Sports 1 FHD Low
-http://tigervip26.xyz:8080/live/35UEwLrghB/UnQnF3KrtY/270942.m3u
-#EXTINF:-1,TR: Bein Sports 1 Raw
-http://tigervip26.xyz:8080/live/35UEwLrghB/UnQnF3KrtY/270940.m3u
-#EXTINF:-1,TR: Tiger Feed 1
-http://tigervip26.xyz:8080/live/35UEwLrghB/UnQnF3KrtY/270964.m3u
-#EXTINF:-1,TR: BEIN SPORTS 1 FEED (MAC ZAMANI)
-http://tigervip26.xyz:8080/live/35UEwLrghB/UnQnF3KrtY/211.m3u
-#EXTINF:-1,TR: BEIN SPORTS FEED ( MAC ZAMANI AKTIF)
-http://tigervip26.xyz:8080/live/35UEwLrghB/UnQnF3KrtY/103633.m3u
-#EXTINF:-1,TR: BEIN SPORTS 1 HD (MAC ZAMANI)*
-http://tigervip26.xyz:8080/live/35UEwLrghB/UnQnF3KrtY/255800.m3u
-#EXTINF:-1,TR:Digiturk 4K
-http://tigervip26.xyz:8080/live/35UEwLrghB/UnQnF3KrtY/270963.m3u
-#EXTINF:-1,TR: BEIN SPORTS 4K HQ
-http://tigervip26.xyz:8080/live/35UEwLrghB/UnQnF3KrtY/216.m3u
+#EXTM3U
+#EXTINF:-1,BEIN FEED RAW
+http://storage.vericen.ru:8080/TktyaUk2SVk0Tmc4QzltMWJaMmZ2N0ZJMFFWV1hURTdKUGtpRTJVZy8rem9Wck53N0VNOHA2SERPd3o4OXdQNQ
+#EXTINF:-1,BEIN FEED FHD
+http://storage.vericen.ru:8080/TktyaUk2SVk0Tmc4QzltMWJaMmZ2N0ZJMFFWV1hURTdKUGtpRTJVZy8rd1p1bTMyanpNTEFDa3lRdVBZK3FVaw
+#EXTINF:-1,BEIN FEED HD
+http://storage.vericen.ru:8080/TktyaUk2SVk0Tmc4QzltMWJaMmZ2N0ZJMFFWV1hURTdKUGtpRTJVZy8reFV0U0hGSzd6ZTlDMXFUNFoxS2M1SQ
+#EXTINF:-1,BEIN SPORT 1 RAW
+http://storage.vericen.ru:8080/TktyaUk2SVk0Tmc4QzltMWJaMmZ2N0ZJMFFWV1hURTdKUGtpRTJVZy8reStncG1CTlFVOGlRV2dQM3N0TERqcQ
+#EXTINF:-1,BEIN SPORT 1 FHD
+http://storage.vericen.ru:8080/TktyaUk2SVk0Tmc4QzltMWJaMmZ2N0ZJMFFWV1hURTdKUGtpRTJVZy8renRtMS82Z2ZLMWEvOUJ6cWV5V2dYNQ
+#EXTINF:-1,BEIN SPORT 1 HD
+http://storage.vericen.ru:8080/TktyaUk2SVk0Tmc4QzltMWJaMmZ2N0ZJMFFWV1hURTdKUGtpRTJVZy8reEVacGNkUmZPZGxGaDhoQXBwVmkxMA
+#EXTINF:-1,BEIN SPORT 4K TEST
+http://storage.vericen.ru:8080/TktyaUk2SVk0Tmc4QzltMWJaMmZ2N0ZJMFFWV1hURTdKUGtpRTJVZy8rd3paekJWNFhSSnJ1bDJ4ZFpRTmd5dA
+#EXTINF:-1,TR:BEINSPORTS 1 TICARI HD
+http://germanyservers1.org/live/cagrikelleci/ss5eBePbu/50500af8-8112-43f6-a90b-7dd7f1225353.m3u
+#EXTINF:-1,TR:BEINSPORTS 1 HD (50FPS)
+http://germanyservers1.org/live/cagrikelleci/ss5eBePbu/83fef809-135f-4ee5-9e13-5eb6f5d5231e.m3u
+#EXTINF:-1,TR:BEINSPORTS 1 HD
+http://germanyservers1.org/live/cagrikelleci/ss5eBePbu/053f89e1-3cc8-49e3-909a-e2b22d76edda.m3u
+#EXTINF:-1,TR:BEINSPORTS 1 HQ (VODAFONE-TURKCELL-TURKIYE)
+http://germanyservers1.org/live/cagrikelleci/ss5eBePbu/1102157e-18c6-466c-a4a1-aa89d657064e.m3u
+#EXTINF:-1,TR:BEINSPORTS 1 SD (DUSUK KALITE)
+http://germanyservers1.org/live/cagrikelleci/ss5eBePbu/40948810-a4ed-4975-8c81-13e1aeb39f6d.m3u
