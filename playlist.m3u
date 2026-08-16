@@ -1,9 +1,23 @@
+#EXTINF:-1,TR: LİSTE -1
+#EXTINF:-1,beIN Sports 1 HD
+http://kgms.xyz:80/live/06volkan06/06092022vlk/366150.ts
+#EXTINF:-1,beIN Sports 1 HD VIP
+http://kgms.xyz:80/live/06volkan06/06092022vlk/454131.ts
+#EXTINF:-1,BeIN Sports 1 FHD
+http://kgms.xyz:80/live/06volkan06/06092022vlk/366152.ts
+#EXTINF:-1,beIN Sports 1 4K
+http://kgms.xyz:80/live/06volkan06/06092022vlk/453901.ts
+#EXTINF:-1,beIN Sports 1 Mobil
+http://kgms.xyz:80/live/06volkan06/06092022vlk/453902.ts
+#EXTINF:-1,beIN Sports 1 HEVC
+http://kgms.xyz:80/live/06volkan06/06092022vlk/453692.ts
+#EXTINF:-1,TR: LİSTE -2
 #EXTINF:-1,TR: be*IN SPORTS 1 VIP
 http://4kx8k.xyz:2095/cfr2708tv2/cff2810cc00/209477
 #EXTINF:-1,|TR| beIN Sports 1 (TTNET ÖZEL)
-http://penatv187.xyz:80/play/e3sZv3KNi5JDvY-xcwbasA-9Q5D8UL0HxbEY45ZcjWk
-#EXTINF:-1,|TR| beIN Sports 1 SD [480p]
-http://penatv187.xyz:80/play/e3sZv3KNi5JDvY-xcwbasD3hoMX4sUS5Udklo-NyAqU
+http://penatv187.xyz:80/play/e3sZv3KNi5JDvY-xcwbasAXvwpnJYFRfEvhSgYhj9RM
+#EXTINF:-1,|TR| beIN Sports 1 HD (VIP)
+http://penatv187.xyz:80/play/e3sZv3KNi5JDvY-xcwbasBDmHL3npIrv4YCLfXKNBQ4
 #EXTINF:-1,|TR| beIN Sports 1 720p
 http://penatv187.xyz:80/play/e3sZv3KNi5JDvY-xcwbasIjtn379iTPtV8D6yQuw8gM
 #EXTINF:-1,|TR| beIN Sports 1 HD [VIP]
@@ -12,10 +26,6 @@ http://penatv187.xyz:80/play/e3sZv3KNi5JDvY-xcwbasEYXuLL-Vv2_gLM7EhhWlU4
 http://penatv187.xyz:80/play/e3sZv3KNi5JDvY-xcwbasOYwR5LtNXsWTUR2kC1clQo
 #EXTINF:-1,|TR| beIN Sports 1 VIP H265
 http://penatv187.xyz:80/play/e3sZv3KNi5JDvY-xcwbasDCcftapYuYSJCIxvoH0bDA
-#EXTINF:-1,beIN Sports 4K
-http://penatv187.xyz:80/play/e3sZv3KNi5JDvY-xcwbasBDmHL3npIrv4YCLfXKNBQ4
-#EXTINF:-1,|TR| beIN Sports 1 4K [Feed]
-http://penatv187.xyz:80/play/e3sZv3KNi5JDvY-xcwbasAXvwpnJYFRfEvhSgYhj9RM
 #EXTINF:-1,|TR| beIN Sports 1 8K [Feed]
 http://penatv187.xyz:80/play/e3sZv3KNi5JDvY-xcwbasMMq5R3eoM97XRjabyHIO_E
 #EXTINF:-1,|TR| beIN Sports 1 HD (Kutu Yayin)
