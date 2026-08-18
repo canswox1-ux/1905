@@ -1,21 +1,11 @@
 #EXTM3U
-
-#EXTINF:-1,🏆 FENERBAHÇE - LYON 22:00
-http://smartersfun01.xyz:8080/live/sHccC8mc/dEREm6x/32770.ts
-
-#EXTINF:-1,🏆 TABİİ SPOR 1 FENERBAHÇE - LYON
-http://smartersfun01.xyz:8080/live/sHccC8mc/dEREm6x/87159.ts
-
-#EXTINF:-1,🏆 TRT 1 FHD
-http://benstv.store:2095/altun7157/fTCB84j/222061
-
-#EXTINF:-1,🏆 TRT 1 HD
+#EXTINF:-1,🏆 FENERBAHÇE - LYON 22:00(TRT)
 http://benstv.store:2095/altun7157/fTCB84j/222062
 
-#EXTINF:-1,🏆 TABİİ SPOR FHD
+#EXTINF:-1,🏆 FENERBAHÇE - LYON 22:00(Alternatif)
 http://benstv.store:2095/altun7157/fTCB84j/222071
 
-#EXTINF:-1,🏆 TABİİ SPOR HD
+#EXTINF:-1,🏆 🏆 FENERBAHÇE - LYON 22:00(Alternatif)
 http://benstv.store:2095/altun7157/fTCB84j/222070
 
 #EXTINF:-1,🏆 BEIN SPORTS
