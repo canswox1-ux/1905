@@ -1,31 +1,65 @@
 #EXTM3U
 
-#EXTINF:-1,🏆 TRT 1 HD 1080
-http://canta21.shop/live/iptvfatih/MaZnMDgrUX/2.m3u
+═══════════════════════════════════════
+              📡 ANA KANAL
+═══════════════════════════════════════
 
-#EXTINF:-1,🏆 TRT 1 HD 1080 CIHAZ
-http://canta21.shop/live/iptvfatih/MaZnMDgrUX/3.m3u
+#EXTINF:-1,📡 BEIN SPORTS
+http://xsoft25.online:8080/onursualp/g28GA93TVW/164989
 
-#EXTINF:-1,🏆 BEIN SPORTS HABER HD 1080
-http://canta21.shop/live/iptvfatih/MaZnMDgrUX/1505720.m3u
+═══════════════════════════════════════
+              📰 HABER
+═══════════════════════════════════════
 
-#EXTINF:-1,🏆 BEIN SPORTS 1 4K
-http://canta21.shop/live/iptvfatih/MaZnMDgrUX/1505748.m3u
+#EXTINF:-1,📰 BEIN SPORTS HABER HD
+http://xsoft25.online:8080/onursualp/g28GA93TVW/103337
 
-#EXTINF:-1,🏆 BEIN SPORTS 1 50 FPS
-http://canta21.shop/live/iptvfatih/MaZnMDgrUX/1536245.m3u
+#EXTINF:-1,📰 BEIN SPORTS HABER FHD
+http://xsoft25.online:8080/onursualp/g28GA93TVW/167847
 
-#EXTINF:-1,🏆 BEIN SPORTS 1 FHD
-http://canta21.shop/live/iptvfatih/MaZnMDgrUX/1536246.m3u
+═══════════════════════════════════════
+              📺 BEIN SPORTS 1
+═══════════════════════════════════════
 
-#EXTINF:-1,🏆 BEIN SPORTS 1 FHD CIHAZ
-http://canta21.shop/live/iptvfatih/MaZnMDgrUX/1536249.m3u
+#EXTINF:-1,📺 BEIN SPORTS 1 SD
+http://xsoft25.online:8080/onursualp/g28GA93TVW/35762
 
-#EXTINF:-1,🏆 BEIN SPORTS 1 HD
-http://canta21.shop/live/iptvfatih/MaZnMDgrUX/1536247.m3u
+#EXTINF:-1,📺 BEIN SPORTS 1 SD EUROPE
+http://xsoft25.online:8080/onursualp/g28GA93TVW/195345
 
-#EXTINF:-1,🏆 BEIN SPORTS 1 HD 720 CIHAZ
-http://canta21.shop/live/iptvfatih/MaZnMDgrUX/1536251.m3u
+#EXTINF:-1,📺 BEIN SPORTS 1 SD KOTA DOSTU
+http://xsoft25.online:8080/onursualp/g28GA93TVW/6099
 
-#EXTINF:-1,🏆 BEIN SPORTS 1 SD
-http://canta21.shop/live/iptvfatih/MaZnMDgrUX/1536248.m3u
+#EXTINF:-1,📺 BEIN SPORTS 1 HD
+http://xsoft25.online:8080/onursualp/g28GA93TVW/98925
+
+#EXTINF:-1,📺 BEIN SPORTS 1 HD EUROPE
+http://xsoft25.online:8080/onursualp/g28GA93TVW/195346
+
+#EXTINF:-1,📺 BEIN SPORTS 1 FHD
+http://xsoft25.online:8080/onursualp/g28GA93TVW/126272
+
+#EXTINF:-1,📺 BEIN SPORTS 1 FHD EUROPE
+http://xsoft25.online:8080/onursualp/g28GA93TVW/195347
+
+#EXTINF:-1,📺 BEIN SPORTS 1 FHD TICARI
+http://xsoft25.online:8080/onursualp/g28GA93TVW/6100
+
+#EXTINF:-1,📺 BEIN SPORTS 1 FHD H264
+http://xsoft25.online:8080/onursualp/g28GA93TVW/196329
+
+#EXTINF:-1,📺 BEIN SPORTS 1 RAW
+http://xsoft25.online:8080/onursualp/g28GA93TVW/196323
+
+#EXTINF:-1,📺 BEIN SPORTS 1 HEVC EUROPE
+http://xsoft25.online:8080/onursualp/g28GA93TVW/195349
+
+═══════════════════════════════════════
+              🎬 4K / UHD
+═══════════════════════════════════════
+
+#EXTINF:-1,🎬 BEIN SPORTS 4K UHD
+http://xsoft25.online:8080/onursualp/g28GA93TVW/35650
+
+#EXTINF:-1,🎬 BEIN SPORTS 4K UHD EUROPE
+http://xsoft25.online:8080/onursualp/g28GA93TVW/195348
