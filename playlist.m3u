@@ -1,65 +1,28 @@
 #EXTM3U
 
-═══════════════════════════════════════
-              📡 ANA KANAL
-═══════════════════════════════════════
+#EXTINF:-1,TR: VIP TRT 1
+http://ege.efetv.de:8080/Dp7AeSEfAs/JgRgenYAqm/517160
 
-#EXTINF:-1,📡 BEIN SPORTS
-http://xsoft25.online:8080/onursualp/g28GA93TVW/164989
+#EXTINF:-1,TR: BEIN SPORTS HABER
+http://ege.efetv.de:8080/Dp7AeSEfAs/JgRgenYAqm/383650
 
-═══════════════════════════════════════
-              📰 HABER
-═══════════════════════════════════════
+#EXTINF:-1,TR: BEIN SPORTS 1 HEVC
+http://ege.efetv.de:8080/Dp7AeSEfAs/JgRgenYAqm/224566
 
-#EXTINF:-1,📰 BEIN SPORTS HABER HD
-http://xsoft25.online:8080/onursualp/g28GA93TVW/103337
+#EXTINF:-1,TR: BEIN SPORTS 1 SD
+http://ege.efetv.de:8080/Dp7AeSEfAs/JgRgenYAqm/138607
 
-#EXTINF:-1,📰 BEIN SPORTS HABER FHD
-http://xsoft25.online:8080/onursualp/g28GA93TVW/167847
+#EXTINF:-1,TR: BEIN SPORTS 1 HD
+http://ege.efetv.de:8080/Dp7AeSEfAs/JgRgenYAqm/123295
 
-═══════════════════════════════════════
-              📺 BEIN SPORTS 1
-═══════════════════════════════════════
+#EXTINF:-1,TR: BEIN SPORTS 1 FHD
+http://ege.efetv.de:8080/Dp7AeSEfAs/JgRgenYAqm/269058
 
-#EXTINF:-1,📺 BEIN SPORTS 1 SD
-http://xsoft25.online:8080/onursualp/g28GA93TVW/35762
+#EXTINF:-1,TR: BEIN SPORTS 1 HD (MAC ZAMANI)
+http://ege.efetv.de:8080/Dp7AeSEfAs/JgRgenYAqm/374534
 
-#EXTINF:-1,📺 BEIN SPORTS 1 SD EUROPE
-http://xsoft25.online:8080/onursualp/g28GA93TVW/195345
+#EXTINF:-1,TR: BEIN SPORTS 1 FHD (MAC ZAMANI)
+http://ege.efetv.de:8080/Dp7AeSEfAs/JgRgenYAqm/299611
 
-#EXTINF:-1,📺 BEIN SPORTS 1 SD KOTA DOSTU
-http://xsoft25.online:8080/onursualp/g28GA93TVW/6099
-
-#EXTINF:-1,📺 BEIN SPORTS 1 HD
-http://xsoft25.online:8080/onursualp/g28GA93TVW/98925
-
-#EXTINF:-1,📺 BEIN SPORTS 1 HD EUROPE
-http://xsoft25.online:8080/onursualp/g28GA93TVW/195346
-
-#EXTINF:-1,📺 BEIN SPORTS 1 FHD
-http://xsoft25.online:8080/onursualp/g28GA93TVW/126272
-
-#EXTINF:-1,📺 BEIN SPORTS 1 FHD EUROPE
-http://xsoft25.online:8080/onursualp/g28GA93TVW/195347
-
-#EXTINF:-1,📺 BEIN SPORTS 1 FHD TICARI
-http://xsoft25.online:8080/onursualp/g28GA93TVW/6100
-
-#EXTINF:-1,📺 BEIN SPORTS 1 FHD H264
-http://xsoft25.online:8080/onursualp/g28GA93TVW/196329
-
-#EXTINF:-1,📺 BEIN SPORTS 1 RAW
-http://xsoft25.online:8080/onursualp/g28GA93TVW/196323
-
-#EXTINF:-1,📺 BEIN SPORTS 1 HEVC EUROPE
-http://xsoft25.online:8080/onursualp/g28GA93TVW/195349
-
-═══════════════════════════════════════
-              🎬 4K / UHD
-═══════════════════════════════════════
-
-#EXTINF:-1,🎬 BEIN SPORTS 4K UHD
-http://xsoft25.online:8080/onursualp/g28GA93TVW/35650
-
-#EXTINF:-1,🎬 BEIN SPORTS 4K UHD EUROPE
-http://xsoft25.online:8080/onursualp/g28GA93TVW/195348
+#EXTINF:-1,TR: BEIN SPORTS 1 4K - UHD (MAC ZAMANI)
+http://ege.efetv.de:8080/Dp7AeSEfAs/JgRgenYAqm/269994
