@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1,beIN Sports 1 HD
+http://letfanx.xyz:80/live/aliaga72/05032026ys/366150.ts
+
+#EXTINF:-1,beIN Sports 1 HD VIP
+http://letfanx.xyz:80/live/aliaga72/05032026ys/454131.ts
+
+#EXTINF:-1,BeIN Sports 1 FHD
+http://letfanx.xyz:80/live/aliaga72/05032026ys/366152.ts
+
+#EXTINF:-1,beIN Sports 1 4K
+http://letfanx.xyz:80/live/aliaga72/05032026ys/453901.ts
+
 #EXTINF:-1, BEIN SPORTS 1
 http://eempiree.com:8080/mucahitabi/dh6yDxr8fG/1105085
 
