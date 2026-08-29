@@ -1,33 +1,50 @@
 #EXTINF:-1,-- ☪[TR] beIN SPORTS ☪ -- 1
-#EXTINF:-1,TR: be*IN SPORTS 1 RAW
-http://eurvip.xyz:2095/hsn5111tv3/hsn2212cc44kk/214050
-#EXTINF:-1,TR: be*IN SPORTS 1 FHD
-http://eurvip.xyz:2095/hsn5111tv3/hsn2212cc44kk/209141
-#EXTINF:-1,TR: be*IN SPORTS 1 fHD - EXTRA
-http://eurvip.xyz:2095/hsn5111tv3/hsn2212cc44kk/209476
-#EXTINF:-1,TR: be*IN SPORTS 1 HD
-http://eurvip.xyz:2095/hsn5111tv3/hsn2212cc44kk/214051
-#EXTINF:-1,TR: be*IN SPORTS 1 HD - EXTRA
-http://eurvip.xyz:2095/hsn5111tv3/hsn2212cc44kk/220373
-#EXTINF:-1,TR: be*IN SPORTS 1 TICARI YAYIN
-http://eurvip.xyz:2095/hsn5111tv3/hsn2212cc44kk/66811
-#EXTINF:-1,TR: be*IN SPORTS 1 PREMIUM
-http://eurvip.xyz:2095/hsn5111tv3/hsn2212cc44kk/209477
-#EXTINF:-1,BEIN SPORT 1 FHD
-http://eurogold4k.xyz:8080/ilker031124/rYDgK2yN9Q/638086
-#EXTINF:-1,[TR] beIN SPORTS 1 ғʜᴅ
-http://xavrupa22.online:8080/keklikali/HSAgv6dQzx/126272
-#EXTINF:-1,[TR] beIN SPORTS 1 ғʜᴅ ᴇᴜʀᴏᴘᴇ
-http://xavrupa22.online:8080/keklikali/HSAgv6dQzx/195347
-#EXTINF:-1,[TR] beIN SPORTS 1 ᴛɪᴄᴀʀɪ
-http://xavrupa22.online:8080/keklikali/HSAgv6dQzx/6100
-#EXTINF:-1,[TR] beIN SPORTS 1 ᴘʀᴏ
-http://xavrupa22.online:8080/keklikali/HSAgv6dQzx/196329
-#EXTINF:-1,[TR] beIN SPORTS 1 ᴜʜᴅ
-http://xavrupa22.online:8080/keklikali/HSAgv6dQzx/35650
-#EXTINF:-1,[TR] beIN SPORTS 1 ᴜʜᴅ ᴇᴜʀᴏᴘᴇ
-http://xavrupa22.online:8080/keklikali/HSAgv6dQzx/195348
-#EXTINF:-1,[TR] beIN SPORTS 1 ʀᴀᴡ
-http://xavrupa22.online:8080/keklikali/HSAgv6dQzx/196323
-#EXTINF:-1,[TR] beIN SPORTS 1 Hevc ᴇᴜʀᴏᴘᴇ
-http://xavrupa22.online:8080/keklikali/HSAgv6dQzx/195349
+#EXTM3U
+
+#EXTINF:-1,BEIN FEED FHD
+http://viptest.shop:8080/aydincakir0971/cajUDeB/638244
+
+#EXTINF:-1,BEIN FEED HD
+http://viptest.shop:8080/aydincakir0971/cajUDeB/638243
+
+#EXTINF:-1,BEIN SPORTS 1 RAW
+http://viptest.shop:8080/aydincakir0971/cajUDeB/2216
+
+#EXTINF:-1,BEIN SPORTS 1 HEVC
+http://viptest.shop:8080/aydincakir0971/cajUDeB/638242
+
+#EXTINF:-1,BEIN SPORTS 1 FHD
+http://viptest.shop:8080/aydincakir0971/cajUDeB/2198
+
+#EXTINF:-1,BEIN SPORTS 1 FHD+
+http://viptest.shop:8080/aydincakir0971/cajUDeB/638241
+
+#EXTINF:-1,BEIN SPORTS 1 TTNET OZEL
+http://buluqhd.shop:8080/mrt1682/rsm4991/334642
+
+#EXTINF:-1,BEIN SPORTS 1 SD 480P
+http://buluqhd.shop:8080/mrt1682/rsm4991/35762
+
+#EXTINF:-1,BEIN SPORTS 1 720P
+http://buluqhd.shop:8080/mrt1682/rsm4991/351541
+
+#EXTINF:-1,BEIN SPORTS 1 HD LOCAL
+http://buluqhd.shop:8080/mrt1682/rsm4991/98925
+
+#EXTINF:-1,BEIN SPORTS 1 FHD
+http://buluqhd.shop:8080/mrt1682/rsm4991/126272
+
+#EXTINF:-1,BEIN SPORTS 1 VIP H265
+http://buluqhd.shop:8080/mrt1682/rsm4991/190072
+
+#EXTINF:-1,BEIN SPORTS 1 4K FEED
+http://buluqhd.shop:8080/mrt1682/rsm4991/35650
+
+#EXTINF:-1,BEIN SPORTS 1 8K FEED
+http://buluqhd.shop:8080/mrt1682/rsm4991/191152
+
+#EXTINF:-1,BEIN SPORTS 1 HD KUTU YAYIN
+http://buluqhd.shop:8080/mrt1682/rsm4991/456568
+
+#EXTINF:-1,BEIN SPORTS 1 HD BOX
+http://buluqhd.shop:8080/mrt1682/rsm4991/456567
