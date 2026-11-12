@@ -1,13 +1,5 @@
-#EXTINF:-1,-- ☪[TR] beIN SPORTS ☪ -- 1
-#EXTINF:-1,TR:BEINSPORTS (KAYNAK 1)
-http://dpsmartone.xyz:2095/krm2618tv/krm1611cc00/224162
-#EXTINF:-1,TR:BEINSPORTS (KAYNAK 2)
-http://karakartt.xyz:8080/elifmr_S/7KWFfSF7y7BC/151108
-#EXTINF:-1,TR:BEINSPORTS (KAYNAK 3)
-http://caniboy26.xyz:8080/live/DBQr7zErNG/tf8sCy56g1412dcA/270941.m3u
-#EXTINF:-1,TR:BEINSPORTS (KAYNAK 4)
-http://kobra47.xyz:8080/live/Mesgold4864x1/944be9e420ef4145/52860.m3u
-#EXTINF:-1,TR:BEINSPORTS (KAYNAK 5)
-http://extsmarterspro2302.shop:8080/akin63/cGsSGPwRmR/190072
-#EXTINF:-1,TR:BEINSPORTS (KAYNAK 5)
-http://4kfbpro.xyz:8080/live/EvrenKarsli32/dba3f16e88600dd4/270963.m3u
+#EXTM3U
+#EXTINF:-1 group-title="Maç i̇zleme",Beinsport-1(hd)
+http://20zp98.7039512.xyz:80/ozbek.apak/7mx3tcJyNE/458547
+#EXTINF:-1,Bei̇nsport(2)hd_
+http://20zp98.7039512.xyz:80/ozbek.apak/7mx3tcJyNE/458551
